@@ -1,6 +1,6 @@
 # radioconnecticut
 Projeto da Rádio Connecticut
-
+<img src="prints/r1.png"/>
 A Rádio Connecticut foi um projeto de uma webradio ao vivo no Youtube.
 Infelizmente acabou não dando certo, mas enfim, funcionava da seguinte forma:
 
