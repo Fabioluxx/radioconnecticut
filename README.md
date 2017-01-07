@@ -14,4 +14,13 @@ Na página de administração era possível escolher uma música existente no ba
 Eu ainda tinha desenvolvido um pequeno sistema de anúncios, a forma da qual eram reproduzidos os anúncios era através de arquivos mp3, contendo mensagens de áudio ou o que seria anunciado, os anúncios eram configurados para serem reproduzidos ao intervalo de 5 músicas, a cada 5 músicas tocadas, um anúncio era reproduzido. Cada anúncio tinha um número de reproduções, por exemplo, se um anúncio tivesse 50 como número de reproduções, ele seria reproduzido até 50 vezes, após isso, se tornaria inativo. Outra função eram as prioridades de anúncios, cada anúncio, deveria possuir um valor de importância, de que deveria ser reproduzido com mais frequência do que os outros, em uma escala de 0 a 10, por exemplo, se existissem dois anúncios, o anúncio "A" com o valor 5 e o anúncio "B" com o valor 10, o anúncio "B" seria reproduzido com o dobro de frequência do que o "A".
 Levei cerca de dois meses para desenvolver todo o código, poderia ter feito muito melhor, tenho certeza disso, fiz esse projeto aos meus 17 anos, existem muitos recursos a mais do que descrevi aqui na rádio, porém alguns como o programa que gravava a tela e fazia streaming foram perdidos, e muitos outros estão incluídos no código da rádio, sinta-se a vontade para ver/editar/utilizar o código, não fiz como algo profissional, apenas programando em meu tempo livre e com o principal objetivo de aumentar meu conhecimento, minha habilidade lógica e de programação.
 
+
+<img src="prints/r2.png"/>
+<img src="prints/r3.png"/>
+<img src="prints/r4.png"/>
+<img src="prints/r5.png"/>
+<img src="prints/r6.png"/>
+<img src="prints/r7.png"/>
+<img src="prints/r8.png"/>
+
 Dúvidas? Entre em contato: fabiolux999@gmail.com
