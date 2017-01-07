@@ -1,0 +1,6 @@
+﻿A pasta está vazia pois as músicas foram removidas para não ter problemas com direitos autorais
+Aqui dentro, cada música é salva da seguinte forma, a sua id do Youtube com o formato mp3, por exemplo
+
+e7QvPgEquUk.mp3
+
+acessando https://www.youtube.com/watch?v=e7QvPgEquUk você irá encontrar o vídeo original
