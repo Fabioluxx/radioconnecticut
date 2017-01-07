@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Radio</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div id="fullback" class="fullback">
+      <span class="backshadow"></span>
+      <div class="container">
+        <div class="topdiv">
+          <div class="scrolltxt" id="scrolltxt">♪ℛá∂ї◎ ¢øηᾔℯḉтї¢υ⊥♪</div>
+        </div>
+        <div class="content">
+          <audio id="mp3" preload="auto" oncanplay="" src=""></audio>
+          <div class="left_menu">
+            <span class="h_title">Tocadas anteriormente:</span>
+            <ul class="h_list">
+            </ul>
+          </div>
+          <div class="thumb"><img src="css/tmb.jpg" width="300" height="169"></img></div>
+          <div class="visualizer" id="visualizer_wrapper">
+              <canvas id='canvas' width="400" height="300"></canvas>
+          </div>
+
+          <!--
+          <div class="xtitle">Playlist:</div>
+          <div class="title"></div>
+        -->
+        <div class="xtitle"><br><br></div>
+          <div class="right_menu">
+            <span class="subs">Inscritos:</span>
+            <span class="odometer">123</span>
+            <img class="logo" width="100" src="css/logo.png"></img>
+          </div>
+        </div>
+        <div class="player">
+          <div class="play-btn"></div>
+          <div class="play-bar"><div class="played"><div class="play-circle"></div></div></div>
+          <div class="time"></div>
+        </div>
+      </div>
+      <span class="version">Beta v2.0</span>
+    </div>
+  </body>
+  <script src="js/jquery.js"></script>
+  <script type="text/javascript" src="visualizer/js/html5_audio_visualizer.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/odometer.js"></script>
+  <link rel="stylesheet" href="css/odometer-theme-train-station.css" />
+</html>
